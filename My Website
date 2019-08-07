@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title> PRINCE AKASH PERSONAL WEBSITE</title>
+</head>
+
+<body>
+  <img src="prince.png" alt="my pic">
+  <h1>PRINCE AKASH</h1>
+  <p>
+    <em> Graduated from <strong>Siddaganga Institute of Technology</strong>.</em>
+  </p>
+  <p>
+    <em> I am an <strong>ENGINEER</strong> from <strong><a href="https://www.google.com/search?q=industrial+engg+and+management&oq=industrial+enggand+man&aqs=chrome.1.69i57j0l5.14515j0j7&sourceid=chrome&ie=UTF-8">Industrial Engineering and
+          management.</a></strong></em>
+  </p>
+  <hr>
+  <h2><em><strong>Education</strong></em></h2>
+  <ol>
+    <li>
+      <p><em>Completed 10th from B.D Memorial International with <strong>8.6 CGPA</strong> </em></p>
+    </li>
+    <p><em>Completed 12th from St. Joseph International with <strong>69%</strong>.</em></p>
+    <p><em>Graduated from Siddaganga Institute of Technology,Tumkur with <strong>7.36 CGPA</strong></em></p>
+    <hr>
+  </ol>
+  <h3> Hobbies</h3>
+  <ul>
+    <li> Gym</li>
+    <li><a href="https://www.google.com/search?q=movie+the+shawshank+redemption&oq=movie+the+shaws&aqs=chrome.1.69i57j0l5.8482j0j9&sourceid=chrome&ie=UTF-8">Movies</a></li>
+    <li><a
+        href="https://www.google.com/search?ei=IfpHXaLBJ9G_8QP_86DABQ&q=think+and+grow+rich&oq=think+and+&gs_l=psy-ab.3.0.0j0i67j0j0i131j0l6.27687.31529..33195...1.0..4.260.3123.0j8j7......0....1..gws-wiz.....10..0i71j35i39j0i22i30j0i20i263.VR7zXj6Hj9g">Books</a>
+    </li>
+  </ul>
+  <a Download href="https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf">Download cheat cheatsheet</a>
+  <hr>
+  <a href="contact.html">Contact</a>
+  <table>
+    <thead>
+      <tr>
+        <th>Dates</th>
+        <th>Work</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2016-2017</td>
+        <td>Brake Designer</td>
+      </tr>
+      <tr>
+        <td>2017-2018</td>
+        <td>Suspension Designer</td>
+      </tr>
+
+    </tbody>
+
+
+  </table>
+  <hr>
+  <h3>Skills</h3>
+  <table cellspacing="10">
+    <tr>
+      <td>
+        <table>
+
+          <tr>
+            <td>Python</td>
+            <td>✔✔</td>
+          </tr>
+          <tr>
+            <td>Machine Learning</td>
+            <td>✔✔</td>
+          </tr>
+      </td>
+
+    </tr>
+  </table>
+  </td>
+  <td>
+    <table cellspacing="10">
+      <tr>
+        <td>
+          <table>
+
+            <tr>
+              <td>Python</td>
+              <td>✔✔</td>
+            </tr>
+            <tr>
+              <td>Machine Learning</td>
+              <td>✔✔</td>
+            </tr>
+        </td>
+
+      </tr>
+    </table>
+  </td>
+  </tr>
+
+
+  </table>
+  <hr>
+
+</body>
+
+</html>
